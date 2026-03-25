@@ -4,7 +4,7 @@ Project Overview
 A conceptualized vocabulary learning application built on a normalized relational database (3NF). This project focuses on the backend data architecture required to power a **Spaced Repetition (Golden Time)** engine, ensuring optimal user retention and scalable data management.
 
 Database Architecture (ERD)
-![MochiVocab ERD](./docs/Mochi_ERD.png)
+![MochiVocab ERD](./docs/ERD Mochi.png)
 
 > **Tech Stack:** Microsoft SQL Server (T-SQL) | **Design:** 3rd Normal Form (3NF)
 
