@@ -1,4 +1,4 @@
-MochiVocab: Data-Driven Vocabulary Application
+# MochiVocab: Data-Driven Vocabulary Application
 
 Project Overview
 A conceptualized vocabulary learning application built on a normalized relational database (3NF). This project focuses on the backend data architecture required to power a **Spaced Repetition (Golden Time)** engine, ensuring optimal user retention and scalable data management.
