@@ -19,7 +19,7 @@ The schema utilizes a central junction table (`User_Vocab_Tracking`) to handle t
   * `UC1.docx.pdf` - Functional specifications & Data requirements.
   * `ERD Mochi.png` - Database schema diagram.
 
-Core Modules & Business Logic
+# Core Modules & Business Logic
 
 Module 1: Spaced Repetition Engine (UC001)
 - **Trigger:** Filters `next_review_time <= NOW()`
